@@ -2,6 +2,9 @@
 
   // Otsakefontit aakkosjärjestyksessä.
   $headerfonts = array(
+    "dancingscript" => array(
+      "name" => "Dancing Script",
+      "url"  => "https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap"),
     "bebasneue" => array(
       "name" => "Bebas Neue",
       "url"  => "https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"),
